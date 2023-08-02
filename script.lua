@@ -4,10 +4,10 @@ current_version = {
     },
  
     key_check = {
-        vip = "LnUg2785Utmm56FX",
+        vip = "LnUg2785Utmm56FX1",
     }, 
 
     private_key = {
-        vip = "C828grnC38JvVM6c",
+        vip = "C828grnC38JvVM6c1",
     },
 }
