@@ -1,6 +1,6 @@
 script = {
 current_version = {
-       vip = "2.0",
+       vip = "123",
     },
  
     key_check = {
